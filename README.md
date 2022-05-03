@@ -1,5 +1,5 @@
 
-# <p align="center"> Microsoft Engage 2021 Submission for Batch of 2022</p>
+# <p align="center"> Microsoft Engage Submission for Batch of 2022</p>
 
 <p align="center">A full stack web application that targets to foster student and faculty engagement via helping students getting recognized for their acheivements by the faculty, giving back to the college community via crowdfunding, showcasing creative projects, interacting with peer's and referring to their work,
 thus leading to a healthy competitive environment.</p>
