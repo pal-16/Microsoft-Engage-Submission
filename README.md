@@ -1,26 +1,30 @@
 
-# Microsoft Engage 2021 Submission for Batch of 2022
+# <p align="center"> Microsoft Engage 2021 Submission for Batch of 2022</p>
 
-[My experience applying for the program](https://mantrypalak.medium.com/microsoft-engage-2021-88875b981438)
-
-[Support Document for the Project](https://docs.google.com/document/d/1Os4hrkQN5u3tmfLSp0PaFD3xeBxKiBWs5E2PPkRzGCU/edit)
-
-[Deployed Website Link](https://university-engagement.herokuapp.com/)
-
-# Project Description
-A full stack web application that targets to foster student and faculty engagement via helping students getting recognized for their acheivements by the faculty, giving back to the college community via crowdfunding, showcasing creative projects, interacting with peer's and referring to their work,
-thus leading to a healthy competitive environment.
+<p align="center">A full stack web application that targets to foster student and faculty engagement via helping students getting recognized for their acheivements by the faculty, giving back to the college community via crowdfunding, showcasing creative projects, interacting with peer's and referring to their work,
+thus leading to a healthy competitive environment.</p>
 
 
+<hr />
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=aRw9GA34GrQ&t=39s">
+    <img src="https://github.com/pal-16/Microsoft-Engage-Submission/blob/main/readme-assets/images-gif.gif"/>
+  </a>
+</p>
+
+<hr />
+
+## Important Links
+- [My experience applying for the program](https://mantrypalak.medium.com/microsoft-engage-2021-88875b981438)
+- [Support Document for the Project](https://docs.google.com/document/d/1Os4hrkQN5u3tmfLSp0PaFD3xeBxKiBWs5E2PPkRzGCU/edit)
+- [Deployed Website Link](https://university-engagement.herokuapp.com/)
 
 
-
-
-
-# Setup
+## Setup
 For configuring the codebase, please refer to [SETUP Guide](https://github.com/pal-16/University-Engagement/blob/main/SETUP.md) to get started with local deployment
 
-# Tech Stack
+## Tech Stack
 
 - Frontend : React
 - Backend : Node.js, Express
@@ -28,7 +32,7 @@ For configuring the codebase, please refer to [SETUP Guide](https://github.com/p
 - Testing: Mocha, Chai
 - Deployment: GitHub Actions, Heroku
 
-# Features Offered
+## Features Offered
 - Authentication using JWT for student and faculty
 - Submit an achievement to be verified by faculty
 - Filter Applications by their status (Pending, Accepted, Rejected)
@@ -43,10 +47,6 @@ For configuring the codebase, please refer to [SETUP Guide](https://github.com/p
 - Filter Projects by their semester and domain 
 - Like and Comment on a project
 - View Project feed sorted by most Liked Projects 
-
-
-## Video Demo (YouTube Link)
-[![Video Demo](https://github.com/pal-16/Microsoft-Engage-Submission/blob/main/readme-assets/videodemo.webp)](https://www.youtube.com/watch?v=aRw9GA34GrQ&t=39s)
 
 ## Screenshots and Working
 
