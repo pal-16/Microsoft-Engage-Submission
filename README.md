@@ -1,22 +1,20 @@
 
-# Microsoft Engage 2021 Submission
+# Microsoft Engage 2021 Submission for Batch of 2022
 
+[My experience applying for the program](https://mantrypalak.medium.com/microsoft-engage-2021-88875b981438)
+
+[Support Document for the Project](https://docs.google.com/document/d/1Os4hrkQN5u3tmfLSp0PaFD3xeBxKiBWs5E2PPkRzGCU/edit)
+
+[Deployed Website Link](https://university-engagement.herokuapp.com/)
+
+# Project Description
 A full stack web application that targets to foster student and faculty engagement via helping students getting recognized for their acheivements by the faculty, giving back to the college community via crowdfunding, showcasing creative projects, interacting with peer's and referring to their work,
 thus leading to a healthy competitive environment.
 
-# Deployed Website Link
-
-https://university-engagement.herokuapp.com/
-
-Credentials for easily accessing the website: 
 
 
-| User       | Email           | Password  |
-| ------------- |:-------------:| -----:|
-| Student      | pamantry_b18@ce.vjti.ac.in | 12345678 |
-| Faculty      | mantrypalak@gmail.com     |  12345678 |
 
-However for receiving email notifications, please try signing up via your gmail account.
+
 
 
 # Setup
